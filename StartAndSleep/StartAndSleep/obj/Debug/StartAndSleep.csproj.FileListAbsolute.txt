@@ -1,0 +1,10 @@
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\bin\Debug\StartAndSleep.exe.config
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\bin\Debug\StartAndSleep.exe
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\bin\Debug\StartAndSleep.pdb
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.csprojResolveAssemblyReference.cache
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.Form1.resources
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.Properties.Resources.resources
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.csproj.GenerateResource.cache
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.csproj.CoreCompileInputs.cache
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.exe
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.pdb
