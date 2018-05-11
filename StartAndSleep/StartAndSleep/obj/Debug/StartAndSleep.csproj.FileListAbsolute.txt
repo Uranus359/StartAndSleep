@@ -8,3 +8,6 @@ C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.
 C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.csproj.CoreCompileInputs.cache
 C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.exe
 C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.pdb
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\bin\Debug\WRing lite.dll
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\bin\Debug\WRing lite.pdb
+C:\Users\Jurec\source\repos\StartAndSleep\StartAndSleep\obj\Debug\StartAndSleep.csproj.CopyComplete
